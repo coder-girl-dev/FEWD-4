@@ -32,7 +32,20 @@ $button-colors: (
   $col-11-lightturquoise: #51ddfc;
   $col-12-bluegreen: #80e8d1;
   
-  
+  $grid-color-map: (
+    col-1: $col-1-purple,
+    col-2: $col-2-pinkorange,
+    col-3: $col-3-lightpurple,
+    col-4: $col-4-turquoise,
+    col-5: $col-5-neongreen, 
+    col-6: $col-6-darkturquoise,
+    col-7: $col-7-lightpink,
+    col-8: $col-8-mediumpink,
+    col-9: $col-9-darkpink, 
+    col-10: $col-10-mediumlime,
+    col-11: $col-11-lightturquoise,
+    col-12: $col-12-bluegreen,
+  );
 
 //Media Query Breakpoints
 $tablet: 768px;
