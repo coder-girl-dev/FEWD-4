@@ -6,3 +6,7 @@
     transform: scale(1.1, 1.1) translate(-5px, -5px);
 
 }
+
+@mixin transition2 {
+    transition: border .9s ease-out;
+}

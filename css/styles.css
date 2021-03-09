@@ -424,35 +424,35 @@ a {
   background-color: #51ddfc;
 }
 .btn.default:hover {
-  background-color: #83e7fd;
+  background-color: #9cecfd;
   transform: scale(1.1, 1.1) translate(-5px, -5px);
 }
 .btn.error {
   background-color: #e4757a;
 }
 .btn.error:hover {
-  background-color: #eca0a3;
+  background-color: #f1b5b8;
   transform: scale(1.1, 1.1) translate(-5px, -5px);
 }
 .btn.info {
   background-color: #927bc1;
 }
 .btn.info:hover {
-  background-color: #af9ed1;
+  background-color: #bdafd9;
   transform: scale(1.1, 1.1) translate(-5px, -5px);
 }
 .btn.success {
   background-color: #63cc82;
 }
 .btn.success:hover {
-  background-color: #89d9a1;
+  background-color: #9ddfb0;
   transform: scale(1.1, 1.1) translate(-5px, -5px);
 }
 .btn.warning {
   background-color: #fd7856;
 }
 .btn.warning:hover {
-  background-color: #fea088;
+  background-color: #feb4a2;
   transform: scale(1.1, 1.1) translate(-5px, -5px);
 }
 
@@ -505,49 +505,85 @@ a {
 .theme.col-1 {
   background-color: #927bc1;
 }
+.theme.col-1:hover {
+  background-color: #7558b1;
+}
 
 .theme.col-2 {
   background-color: #fd7856;
+}
+.theme.col-2:hover {
+  background-color: #fc5024;
 }
 
 .theme.col-3 {
   background-color: #deb2ee;
 }
+.theme.col-3:hover {
+  background-color: #cc88e5;
+}
 
 .theme.col-4 {
   background-color: #7ee6fd;
+}
+.theme.col-4:hover {
+  background-color: #4cdcfc;
 }
 
 .theme.col-5 {
   background-color: #88d9a0;
 }
+.theme.col-5:hover {
+  background-color: #61cd81;
+}
 
 .theme.col-6 {
   background-color: #4da2bb;
+}
+.theme.col-6:hover {
+  background-color: #3b849a;
 }
 
 .theme.col-7 {
   background-color: #ec9fa3;
 }
+.theme.col-7:hover {
+  background-color: #e4747a;
+}
 
 .theme.col-8 {
   background-color: #fd9f85;
+}
+.theme.col-8:hover {
+  background-color: #fc7853;
 }
 
 .theme.col-9 {
   background-color: #e4757a;
 }
+.theme.col-9:hover {
+  background-color: #dc4a51;
+}
 
 .theme.col-10 {
   background-color: #63cc82;
+}
+.theme.col-10:hover {
+  background-color: #3ebe64;
 }
 
 .theme.col-11 {
   background-color: #51ddfc;
 }
+.theme.col-11:hover {
+  background-color: #1fd3fb;
+}
 
 .theme.col-12 {
   background-color: #80e8d1;
+}
+.theme.col-12:hover {
+  background-color: #55e0c1;
 }
 
 .card {
